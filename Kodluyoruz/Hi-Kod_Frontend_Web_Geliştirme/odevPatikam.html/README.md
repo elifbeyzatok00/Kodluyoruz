@@ -8,7 +8,7 @@
 <br><br>
 
   <h2>02_display</h2>
-  (Tasarım ödevi değildi. Görsel yok
+  (Tasarım ödevi değildi. Görsel yok)
 
 
 <br><br>
