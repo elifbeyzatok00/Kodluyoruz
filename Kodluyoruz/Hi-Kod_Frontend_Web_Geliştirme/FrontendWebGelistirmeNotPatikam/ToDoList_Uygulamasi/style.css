@@ -1,0 +1,3 @@
+.fa-solid.fa-xmark:hover{ /* fa-solid.fa-xmark class ının yani i'nin yani çarpı işaretinin üzerine gelince çalışır*/
+    cursor:pointer;  /* çarpı işaretinin üzerine gelince el çıkar */
+}
