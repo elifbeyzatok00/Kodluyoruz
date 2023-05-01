@@ -2,7 +2,7 @@ let todoInput = document.querySelector("#todoInput");
 let todoAddBtn = document.querySelector("#todoAddBtn");
 let todoList = document.querySelector("#todoList");
 let clearBtn = document.querySelector("#clearBtn");
-let cardBody = document.querySelector("#card-body");
+let cardBody = document.querySelector(".card-body");
 
 //ekleme
 todoAddBtn.addEventListener("click", addTodo);
@@ -30,7 +30,7 @@ function addTodo(){
     
 }
 
-// -komple silme
+//komple silme
 clearBtn.addEventListener("click", clearAllTodos);
 
 function clearAllTodos(){
@@ -57,7 +57,7 @@ function removeTodo(event){
 function myAlert(){
     let div = document.createElement("div");
     div.className = "alert alert-warning mt-4";
-    div.innerHTML = "Geçersiz işlem";
+    div.innerHTML = "Geçersiz İşlem";
     cardBody.appendChild(div);
 
     setInterval(function () {
@@ -68,3 +68,11 @@ function myAlert(){
 
 
 // 13, 57-65 çalışmıyor
+
+
+/*
+    <div class="alert alert-warning" role="alert">
+    A simple warning alert—check it out!
+    </div>
+
+*/
