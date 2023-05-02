@@ -67,7 +67,6 @@ function myAlert(){
 }
 
 
-// 13, 57-65 çalışmıyor
 
 
 /*
