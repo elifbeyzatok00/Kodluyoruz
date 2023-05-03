@@ -10,6 +10,21 @@ header{
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 1%;
 }
+#home:hover {
+    color: #F78501;
+    cursor: pointer;
+    transition-duration:0.4s;
+}
+#blog:hover {
+    color: #F78501;
+    cursor: pointer;
+    transition-duration:0.4s;
+}
+#contact:hover {
+    color: #F78501;
+    cursor: pointer;
+    transition-duration:0.4s;
+}
 
 #logIn_signUp{
     margin-left: 26%;
@@ -23,6 +38,19 @@ header{
     color: white;
     background: rgb(255,204,112);
     background: linear-gradient(90deg, rgba(255,204,112,1) 0%, rgba(255,160,50,1) 55%, rgba(247,133,1,1) 100%);
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+#logIn:hover {
+    color: #F78501;
+    cursor: pointer;
+    transition-duration:0.4s;
+}
+.btn-sign-up:hover {
+    color: white;
+    background: rgb(255, 205, 112);
+    background: linear-gradient(90deg, rgb(248, 205, 124) 0%, rgba(255,204,112,1) 55%, rgba(255,204,112,1) 100%);
     border-radius: 12px;
     border: none;
     cursor: pointer;
@@ -61,4 +89,31 @@ header{
     justify-content: center;
     margin-left: 18%;
     margin-right: 18%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+table {
+    border-radius: 2em;
+    border-color: rgba(103, 101, 101, 0.37);
+}
+#option-table{
+    width: 55%;
+    
+}
+#option{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 8px;
+}
+tr{
+    display: flex;
+    justify-content: center;
+}
+#option:hover {
+    color: #F78501;
+    cursor: pointer;
+    transition-duration:0.4s;
 }
