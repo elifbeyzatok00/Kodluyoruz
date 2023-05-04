@@ -3,7 +3,7 @@ header{
 }
 
 #nav1{
-    margin-left: 22%;
+    margin-left: 19%;
 }
 #home, #blog, #contact{
     font-size: x-large;
@@ -27,7 +27,7 @@ header{
 }
 
 #logIn_signUp{
-    margin-left: 26%;
+    margin-left: 27%;
 }
 #logIn, #signUp{
     font-size: x-large;
@@ -87,8 +87,8 @@ header{
     color: rgb(111, 108, 108);
     display: flex;
     justify-content: center;
-    margin-left: 18%;
-    margin-right: 18%;
+    margin-left: 4%;
+    margin-right: 5%;
 }
 
 .container{
@@ -100,7 +100,7 @@ table {
     border-color: rgba(103, 101, 101, 0.37);
 }
 #option-table{
-    width: 55%;
+    width: 40%;
     
 }
 #option{
@@ -116,4 +116,301 @@ tr{
     color: #F78501;
     cursor: pointer;
     transition-duration:0.4s;
+}
+
+
+#container2{
+    margin-top: 2%;
+    margin-left: 5%;
+    background-color: rgba(222, 221, 219, 0.555);
+}
+#pic1{
+    padding-top: 10%;
+    padding-left: 2%;
+    width: 650px;
+    display: flex;
+    justify-content: center;
+}
+.card-aciklama1{
+    padding-top: 5.5%;
+}
+#option-card1{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0.1%;
+}
+#read-time1{
+    font-size: large;
+    padding: 0.1%;
+}
+.btn-option-card1{
+    color: white;
+    background: rgb(6, 6, 6);
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+#card-baslik1{
+    margin-top: 5%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#aciklama-text1{
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn-read-more1{
+    margin-top: 6.5%;
+    margin-bottom: 3%;
+    color: black;
+    border-radius: 5px;
+    border: 1px rgba(0, 0, 0, 0.474) solid;
+    cursor: pointer;
+}
+.btn-read-more1:hover {
+    color: white;
+    background: rgb(27, 26, 26);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .card {
+    flex-basis: calc(33.33% - 20px);
+    margin: 10px;
+    background-color: #fff;
+    padding: 10px;
+    height: 800px;
+  }
+  .card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+
+
+#card2 {
+    position: relative;
+    margin-top: 2%; 
+    margin-left: 5%;
+    width: 400px;
+    height: 660px;
+    background-color: rgba(222, 221, 219, 0.555);
+    border: none;
+    border-radius: 0%;
+}
+.card-aciklama2{
+    margin: 5%;
+}
+#card-baslik2{
+    margin-top: 5%;
+}
+#option-card2{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0.1%;
+}
+#read-time2{
+    font-size: large;
+    padding: 0.1%;
+    margin-bottom: 2%;
+}
+.btn-option-card2{
+    color: white;
+    background: rgb(6, 6, 6);
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+#card-baslik2{
+    margin-top: 5%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#aciklama-text2{
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn-read-more2{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: black;
+    border-radius: 5px;
+    border: 1px rgba(0, 0, 0, 0.474) solid;
+    cursor: pointer;
+}
+.btn-read-more2:hover {
+    color: white;
+    background: rgb(27, 26, 26);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+#card3 {
+    position: relative;
+    margin-top: 2%; 
+    margin-left: 5%;
+    width: 400px;
+    height: 660px;
+    background-color: rgba(222, 221, 219, 0.555);
+    border: none;
+    border-radius: 0%;
+}
+.card-aciklama3{
+    margin: 5%;
+}
+#card-baslik3{
+    margin-top: 5%;
+}
+#option-card3{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0.1%;
+}
+#read-time3{
+    font-size: large;
+    padding: 0.1%;
+}
+.btn-option-card3{
+    color: white;
+    background: rgb(6, 6, 6);
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+#card-baslik3{
+    margin-top: 5%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#aciklama-text3{
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn-read-more3{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: black;
+    border-radius: 5px;
+    border: 1px rgba(0, 0, 0, 0.474) solid;
+    cursor: pointer;
+}
+.btn-read-more3:hover {
+    color: white;
+    background: rgb(27, 26, 26);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+#card4 {
+    position: relative;
+    margin-top: 2%; 
+    margin-left: 5%;
+    width: 400px;
+    height: 660px;
+    background-color: rgba(222, 221, 219, 0.555);
+    border: none;
+    border-radius: 0%;
+}
+.card-aciklama4{
+    margin: 5%;
+}
+#card-baslik4{
+    margin-top: 5%;
+}
+#option-card4{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0.1%;
+}
+#read-time4{
+    font-size: large;
+    padding: 0.1%;
+}
+.btn-option-card4{
+    color: white;
+    background: rgb(6, 6, 6);
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+#card-baslik4{
+    margin-top: 5%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#aciklama-text4{
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn-read-more4{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: black;
+    border-radius: 5px;
+    border: 1px rgba(0, 0, 0, 0.474) solid;
+    cursor: pointer;
+}
+.btn-read-more4:hover {
+    color: white;
+    background: rgb(27, 26, 26);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.container-boxes {
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+  }
+  
+  .box {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.351);
+    color: rgba(0, 0, 0, 0.618);
+    box-sizing: border-box;
+    border-radius: 2%;
+    text-align: center;
+  }
+  
+.footer{
+    margin: 20px;
+}
+
+.footer__container{
+    display: flex;
+    flex-wrap: wrap;
+}
+#designed-by{
+    cursor: pointer;
 }
