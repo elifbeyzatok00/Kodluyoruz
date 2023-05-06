@@ -414,3 +414,37 @@ tr{
 #designed-by{
     cursor: pointer;
 }
+
+
+
+/* Home Page */
+#home-card{
+    border: none;
+    border-radius: 0;
+    background-color: rgba(222, 221, 219, 0.555);
+    align-items: center;
+}
+.card{
+    margin-left: 5%;
+    margin-bottom: 3%;
+}
+
+.card-baslik_{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #000000;
+
+}
+.card-text_{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0000009b;
+}
+
+
+/* contact page */
+#my-account-logo{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
