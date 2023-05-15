@@ -14,7 +14,7 @@
 
 ![image](https://github.com/elifbeyzatok00/Kodluyoruz/assets/102792446/246abfcc-f1d7-4c22-a879-836d40eb4e53)
 
-## Tasarımımı koda döktüm
+## Sonra tasarımımı koda döktüm
 Herkese verilen ortak bir konu vardı. Konu sektörlere göre cinsiyet eşitliğiydi. 
 Kodluyoruz'un bir Blog web sitesi varmış ve bu sitede sektörlere göre cinsiyet eşitliği konulu haberler, makaleler, blog yazıları varmış şeklinde bir hikaye oluşturdum.
 Sonra bu hikayeyi Canva'da tasarıma çevirdim.
