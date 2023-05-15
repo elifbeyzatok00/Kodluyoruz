@@ -27,5 +27,10 @@ Temelde 3 sayfadan oluşan ve olabildiğince responsive (duyarlı) bir tasarım 
 ![image](https://github.com/elifbeyzatok00/Kodluyoruz/assets/102792446/fda327c9-586b-4680-a15a-ae6ea2092555)
 
 
+**Blog** kısmına esas projenin konusu olan sektörlere göre cinsiyet eşitliği konulu haberler, makaleler, blog yazıları olan sayfayı ekledim.
+
+![image](https://github.com/elifbeyzatok00/Kodluyoruz/assets/102792446/02e9390a-8a6e-4b8f-9e11-1d1f2c05d239)
+
+
 
 
