@@ -1,0 +1,117 @@
+/* Nav */
+.nav {
+    margin-left: 1292px;
+    margin-right: 8px;
+    margin-top: 0;
+}
+#gmail, #gorseller {
+    margin-right: 3%;
+}
+#appsbutton {
+    width: 20px;
+    height: 20px;
+    margin-left: 4%;
+    margin-right: 1%;
+    padding-top: 10px;
+}
+#profile-logo {
+    width: 35px;
+    height: 35px;
+    margin-left: 4%;
+    margin-right: 1%;
+    padding-top: 10px;
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+
+
+/* Google Logo */
+.google-logo {
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+
+/* Search Bar */
+input {
+    width: 500px;
+    height: 45px;
+    border-radius: 30px;
+    border-color: rgba(164, 159, 159, 0.333);
+    padding-left: 27px;
+    padding-right: 30px;
+    /*
+    background: url(https://icons.veryicon.com/png/o/miscellaneous/kbm-icon/icon_search-8.png) no-repeat scroll 7px 7px;
+    background-size: 20px;
+    */
+}
+.inputWrapper {
+    margin-bottom: 2%;
+}
+
+.icon {
+    background: url(https://icons.veryicon.com/png/o/miscellaneous/kbm-icon/icon_search-8.png) no-repeat left;
+    background-size: 20px;
+}
+
+/*   mikrofon logosunu ekleyemedim 
+.icon2 {
+    background: url(assets/img/voicelogo.png) no-repeat right;
+    background-size: 20px;
+}
+*/
+
+
+
+/* Buttons under the search bar */
+button {
+    border-color: rgba(219, 212, 212, 0.026);
+    background-color: rgba(175, 171, 171, 0.07);
+    border-radius: 5px;
+    padding: 8px;
+}
+
+
+
+
+/* footer */
+.footer {
+    margin-top: 13%;
+    border-color: rgba(137, 135, 135, 0.395);
+    background-color: rgba(190, 189, 189, 0.245);
+}
+
+
+
+.konum {
+    padding-top: 12px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    color: gray;
+}
+
+
+
+.en-alt {
+    padding-top: 8px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+}
+
+#hakkinda, #reklam, #isletme {
+    padding-right: 10px;
+}
+#box-1 {
+    width: 400px;
+}
+#box-2 {
+    width: 300px;
+    color: gray;
+    margin-left: 305px;
+}
+#box-3 {
+    width: 300px;
+    margin-left: 450px;
+}
