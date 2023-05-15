@@ -1,5 +1,5 @@
 
-# Hi-Kod Frontend Web Geliştirme Bootcamp Mezuniyet projem
+# Hi-Kod Frontend Web Geliştirme Bootcamp Mezuniyet Projem
 
 **Proje Konusu:** Sektörlere göre Cinsiyet Eşitliği
 
