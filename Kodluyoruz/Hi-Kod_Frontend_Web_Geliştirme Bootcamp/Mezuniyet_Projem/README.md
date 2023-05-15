@@ -24,6 +24,7 @@ Temelde 3 sayfadan oluşan ve olabildiğince responsive (duyarlı) bir tasarım 
 
 **Home** sayfasına Bootcampin afişini, mezuniyet projesinin konusunu ve Kodluyoruz ekibine teşekkür kısmını ekledim.
 
+![image](https://github.com/elifbeyzatok00/Kodluyoruz/assets/102792446/fda327c9-586b-4680-a15a-ae6ea2092555)
 
 
 
