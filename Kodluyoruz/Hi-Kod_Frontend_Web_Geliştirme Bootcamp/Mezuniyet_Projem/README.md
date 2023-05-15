@@ -16,5 +16,15 @@ Herkese verilen ortak bir konu vardı. Konu sektörlere göre cinsiyet eşitliğ
 Kodluyoruz'un bir Blog web sitesi varmış ve bu sitede sektörlere göre cinsiyet eşitliği konulu haberler, makaleler, blog yazıları varmış şeklinde bir hikaye oluşturdum.
 Sonra bu hikayeyi Canva'da tasarıma çevirdim.
 
-Temelde 3 sayfadan oluşan ve olabildiğince responsive(duyarlı) bir tasarım oluşturmayı hedefledim.
+Temelde 3 sayfadan oluşan ve olabildiğince responsive (duyarlı) bir tasarım oluşturmayı hedefledim.
+* Home
+* Blog
+* Contact
+
+
+**Home** sayfasına Bootcampin afişini, mezuniyet projesinin konusunu ve Kodluyoruz ekibine teşekkür kısmını ekledim.
+
+
+
+
 
