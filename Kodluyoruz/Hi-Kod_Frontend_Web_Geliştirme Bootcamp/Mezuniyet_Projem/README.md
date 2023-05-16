@@ -1,7 +1,7 @@
 
 # Hi-Kod Frontend Web Geliştirme Bootcamp Mezuniyet Projem
 
-**Proje Konusu:** Sektörlere göre Cinsiyet Eşitliği
+**Proje Konusu:** Sektörlere göre cinsiyet eşitliği
 
 **Projemi anlattığım video:**  [Video Linki](https://drive.google.com/file/d/11WittivaU8Os3uapqYJilEG9YhP7a2Z8/view?usp=share_link)
 
