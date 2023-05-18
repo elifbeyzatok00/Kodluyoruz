@@ -1,7 +1,7 @@
 # Instagram clone
 
-Hazır olarak verilen instagram projesinde task olarak verilen değişiklikleri yaparak
-istenen hale getirildi.
+Bu ödevde hazır olarak verilen Instagram projesinde task olarak verilen değişiklikleri yaparak
+istenen hale getirilmesi hedefleniyor.
 
 
 
