@@ -21,12 +21,4 @@ Bu diziye göre Binary Search Tree (BST) oluşturulması aşağıdaki gibi olaca
 9. Dokuzuncu eleman 4, 3'ten büyük ama 5'ten küçük olduğu için 3'ün sağ çocuğu olur.
 10. Onuncu eleman 2, 1'den büyük ama 3'ten küçük olduğu için 3'ün sol çocuğu olur.
 
-       7  
-      / \
-     5   8
-    / \   \
-   1   6   9 
-  / \   
- 0   3  
-    / \
-   2   4  
+![image](https://github.com/elifbeyzatok00/Kodluyoruz/assets/102792446/067546b9-2a51-4348-be1e-5ece705ba31a)
