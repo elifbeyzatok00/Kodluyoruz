@@ -3,7 +3,7 @@
 Bu ödevde hazır olarak verilen Linkedin projesinde task olarak verilen değişiklikleri yaparak istenen hale getirilmesi hedefleniyor.
 
 
-Hazır olarak verilen Linkedin proje: https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev3/bootstraplinkedinclone
+Hazır olarak verilen Linkedin proje: https://github.com/Kodluyoruz/taskforce/tree/main/bootstrap/odev3/bootstraplinkedinclone 
 ![pic](assets/LinkedinClone.png)
 
 
