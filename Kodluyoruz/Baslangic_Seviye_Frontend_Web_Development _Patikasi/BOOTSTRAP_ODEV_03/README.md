@@ -11,5 +11,5 @@ Task: https://academy.patika.dev/courses/bootstrap/odev3
 
 
 <!-- ### Verilen görevleri olabildiğince tamamlamaya çalıştım ve son halini yükledim -->
-### Bu proje henüz tamamlanmadı
+### Bu proje henüz tamamlanmadı.
 
