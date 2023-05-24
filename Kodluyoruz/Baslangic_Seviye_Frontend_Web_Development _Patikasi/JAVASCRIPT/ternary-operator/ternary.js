@@ -1,6 +1,6 @@
 let boolean;
 
-const isBooleanTrue = boolean ? true : false;
+const isBooleanTrue = boolean ? true : false ;
 
 console.log(isBooleanTrue)
 
