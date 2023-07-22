@@ -1,6 +1,9 @@
 
 # Hi-Kod Frontend Web Geliştirme Bootcamp Mezuniyet Projem
 
+### 🥳🎉💖 Projem Kodluyoruz'un web sitesinde diğer Hi-Kod Mezunlarının Projeleriyle birlikte yayınlandı. İlgili sayfaya gitmek için [buraya](https://kodluyoruz.org/hi-kod-frontend-bitirme-projesi-ornekleri/) tıklayarak diğer Hi-Kod Front-End Atölyesi Bitirme Projeleri ile birlikte benimkine de ulaşabilirsiniz!
+
+
 **Proje Konusu:** Sektörlere göre cinsiyet eşitliği
 
 **Projemi anlattığım video:**  [Video Linki](https://drive.google.com/file/d/11WittivaU8Os3uapqYJilEG9YhP7a2Z8/view?usp=share_link)
